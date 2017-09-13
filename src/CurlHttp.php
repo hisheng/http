@@ -79,8 +79,8 @@ class CurlHttp{
     
     public static function test(){
         echo 'http test';
-        $parms = array('mobile'=>1519999999,'password'=>'111111');
-        $a =  self::get('https://api/user/login',$parms);
+        $parms = array('mobile'=>15190290573,'password'=>'111111');
+        $a =  self::get('https://real-user.meilimei.com/api/user/login',$parms);
         print_r($a);
     }
 }

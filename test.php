@@ -14,5 +14,5 @@ $hp = new HHttp\CurlHttp();
 
 
 $parms = array('reply_id'=>507,'desc'=>'cli test');
-$a =  $hp::post('https:/api/beauty_comment/create',$parms);
+$a =  $hp::post('https://beta-user.meilimei.com/api/beauty_comment/create',$parms);
 var_dump($a);
