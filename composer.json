@@ -1,0 +1,15 @@
+{
+    "name": "hisheng/http",
+    "authors": [
+        {
+            "name": "张海生",
+            "email": "465908774@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HHttp\\": "src/"
+        }
+    }
+}
