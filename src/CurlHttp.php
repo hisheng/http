@@ -9,8 +9,14 @@
 namespace HHttp;
 
 class CurlHttp{
-    
+    public static $cookie_file ;
     //get 方法
+    
+    public function __construct()
+    {
+        self::$cookie_file = dirname(__DIR__).'./cookie.txt';
+    }
+    
     public static function get($url,$parms){
         //参数
         
@@ -27,8 +33,9 @@ class CurlHttp{
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);    // https请求 不验证证书和hosts
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
         //php的curl传送cookie
-        curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt '); //保存
-        curl_setopt($ch, CURLOPT_COOKIEFILE, 'cookie.txt '); //读取
+        curl_setopt($ch, CURLOPT_COOKIESESSION, true); //每一次都信的cookie
+        curl_setopt($ch, CURLOPT_COOKIEJAR, self::$cookie_file); //保存
+        curl_setopt($ch, CURLOPT_COOKIEFILE, self::$cookie_file); //读取
         
         // 抓取URL并把它传递给浏览器
         $result = curl_exec($ch);
@@ -65,8 +72,8 @@ class CurlHttp{
         curl_setopt($ch, CURLOPT_POSTFIELDS, $postparams);
     
         //php的curl传送cookie
-        curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt '); //保存
-        curl_setopt($ch, CURLOPT_COOKIEFILE, 'cookie.txt '); //读取
+        curl_setopt($ch, CURLOPT_COOKIEJAR, self::$cookie_file); //保存
+        curl_setopt($ch, CURLOPT_COOKIEFILE, self::$cookie_file); //读取
         
         // 抓取URL并把它传递给浏览器
         $result = curl_exec($ch);
@@ -75,6 +82,40 @@ class CurlHttp{
         curl_close($ch);
         
         return $result;
+    }
+    
+    
+    public static function put($api,$params)
+    {
+        $postparams =  http_build_query(self::get_parms($params));
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, self::get_api($api));
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array('X-HTTP-Method-Override: PUT'));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "PUT");
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $postparams);
+        $result = curl_exec($ch);
+        curl_close($ch);
+        
+        return json_decode($result,true);
+    }
+    
+    public static function delete($api,$params)
+    {
+        $postparams =  http_build_query(self::get_parms($params));
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, self::get_api($api));
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array('X-HTTP-Method-Override: DELETE'));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        
+        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "DELETE");
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $postparams);
+        
+        
+        $result = curl_exec($ch);
+        curl_close($ch);
+        return json_decode($result,true);
     }
     
     public static function test(){

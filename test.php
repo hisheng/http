@@ -8,11 +8,6 @@
 require __DIR__.'./vendor/autoload.php';
 
 $hp = new HHttp\CurlHttp();
-//$hp::test();
-
-
-
-
 $parms = array('reply_id'=>507,'desc'=>'cli test');
 $a =  $hp::post('https://beta-user.meilimei.com/api/beauty_comment/create',$parms);
 var_dump($a);
