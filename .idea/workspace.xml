@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94af3b3-3688-4c1c-befa-4f7228aa9992" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wawa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alimama.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/duanzi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huainanhai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meitao2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qqSports.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CurlHttp.php" afterPath="$PROJECT_DIR$/src/CurlHttp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotest.php" afterPath="$PROJECT_DIR$/taotest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wawa.php" afterPath="$PROJECT_DIR$/wawa.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +23,63 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="meitao2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meitao2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alimama.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alimama.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taotest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="wawa.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wawa.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="java.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+              <folding>
+                <element signature="n#httpGet#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qqSports.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qqSports.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
               <folding>
                 <element signature="e#6#85#0#PHP" expanded="true" />
               </folding>
@@ -31,14 +87,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurlHttp.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+      <file leaf-file-name="huainanhai.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huainanhai.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="118" column="5" lean-forward="false" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+            <state relative-caret-position="114">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding>
-                <element signature="e#3067#3662#0#PHP" expanded="false" />
+                <element signature="n#httpGet#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="duanzi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/duanzi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,10 +124,16 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/userid.php" />
-        <option value="$PROJECT_DIR$/taotest.php" />
-        <option value="$PROJECT_DIR$/cookie.txt" />
         <option value="$PROJECT_DIR$/wawa.php" />
         <option value="$PROJECT_DIR$/src/CurlHttp.php" />
+        <option value="$PROJECT_DIR$/cookie.txt" />
+        <option value="$PROJECT_DIR$/duanzi.php" />
+        <option value="$PROJECT_DIR$/alimama.php" />
+        <option value="$PROJECT_DIR$/taotest.php" />
+        <option value="$PROJECT_DIR$/huainanhai.php" />
+        <option value="$PROJECT_DIR$/meitao2.php" />
+        <option value="$PROJECT_DIR$/java.php" />
+        <option value="$PROJECT_DIR$/qqSports.php" />
       </list>
     </option>
   </component>
@@ -73,10 +145,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="190" />
-    <option name="y" value="86" />
+    <option name="x" value="62" />
+    <option name="y" value="81" />
     <option name="width" value="1231" />
-    <option name="height" value="655" />
+    <option name="height" value="610" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -105,20 +177,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -131,7 +189,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="D:/meili/vstcom" />
+    <property name="last_opened_file_path" value="D:/meili/meitao" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,7 +203,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.huainanhai.php">
+    <configuration default="false" name="huainanhai.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/http/huainanhai.php">
+      <method />
+    </configuration>
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
       <PhpTestRunnerSettings />
       <method />
@@ -213,6 +274,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.huainanhai.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.huainanhai.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -230,19 +299,33 @@
       <workItem from="1507709496034" duration="617000" />
       <workItem from="1508150845378" duration="702000" />
       <workItem from="1510199864116" duration="3269000" />
-      <workItem from="1510380655789" duration="1271000" />
+      <workItem from="1510380655789" duration="2524000" />
+      <workItem from="1514529070308" duration="2509000" />
+      <workItem from="1514975885317" duration="3432000" />
+      <workItem from="1515982764730" duration="114000" />
+      <workItem from="1517799755645" duration="5677000" />
+      <workItem from="1519280863310" duration="14000" />
+      <workItem from="1519374166219" duration="2730000" />
+      <workItem from="1519456035785" duration="14000" />
+      <workItem from="1519787420369" duration="1302000" />
+      <workItem from="1520219013648" duration="6869000" />
+      <workItem from="1520851503721" duration="902000" />
+      <workItem from="1520912104754" duration="1534000" />
+      <workItem from="1521017047480" duration="28000" />
+      <workItem from="1521697924611" duration="271000" />
+      <workItem from="1522304066853" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16672000" />
+    <option name="totallyTimeSpent" value="43948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="86" width="1231" height="655" extended-state="0" />
+    <frame x="62" y="81" width="1231" height="610" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18024692" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20246914" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -257,7 +340,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -274,13 +357,121 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="126" column="1" lean-forward="false" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wawa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="88" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="126" column="1" lean-forward="false" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wawa.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="88" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wawa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="118" column="5" lean-forward="false" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wawa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -288,7 +479,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -320,7 +513,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -352,7 +547,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -376,7 +573,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -401,14 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -422,43 +613,132 @@
     <entry file="file://$PROJECT_DIR$/userid.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cookie.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wawa.php">
+    <entry file="file://$PROJECT_DIR$/test.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h/20180305065053.jpg" />
+    <entry file="file://$PROJECT_DIR$/h/20180305065051.jpg" />
+    <entry file="file://$PROJECT_DIR$/h/20180305065052.jpg" />
+    <entry file="file://$PROJECT_DIR$/h/20180305065056.jpg" />
+    <entry file="file://$PROJECT_DIR$/h/20180305065218.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h/20180305065247.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h/20180305065348.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h/20180305070052.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="84" column="5" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="e#3035#3630#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qqSports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CurlHttp.php">
+    <entry file="file://$PROJECT_DIR$/huainanhai.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="118" column="5" lean-forward="false" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
-            <element signature="e#3067#3662#0#PHP" expanded="false" />
+            <element signature="n#httpGet#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duanzi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding>
+            <element signature="n#httpGet#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wawa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meitao2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alimama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>

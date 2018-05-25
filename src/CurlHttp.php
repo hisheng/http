@@ -87,9 +87,9 @@ class CurlHttp{
     
     public static function put($api,$params)
     {
-        $postparams =  http_build_query(self::get_parms($params));
+        $postparams =  http_build_query($params);
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, self::get_api($api));
+        curl_setopt($ch, CURLOPT_URL, $api);
         curl_setopt($ch, CURLOPT_HTTPHEADER, array('X-HTTP-Method-Override: PUT'));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         
